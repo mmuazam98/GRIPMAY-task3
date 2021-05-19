@@ -12,3 +12,11 @@
    party for integrations.<br>
 ◇ Host the website at 000webhost, github.io, heroku app or any
    other free hosting provider. Check in code in gitlab.<br>
+
+# Tech Stack
+- HTML
+- CSS
+
+# Website
+- https://grip-task3.netlify.app/ <br><br>
+<a href="https://ibb.co/9WbpqRL"><img src="https://i.ibb.co/Pgcr5Bn/Screenshot-2021-05-19-221708.png" alt="Screenshot-2021-05-19-221708" border="0"></a>
